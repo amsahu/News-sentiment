@@ -63,7 +63,7 @@ Design and develop the solution to predict sentiments for headline and title of 
 
 ### Model metrics summary
 
-![image](https://user-images.githubusercontent.com/60923910/132124397-3a10c4f5-9499-4e17-89a4-c3683155ad35.png)
+<img src="https://user-images.githubusercontent.com/60923910/132124397-3a10c4f5-9499-4e17-89a4-c3683155ad35.png" width=700>
 
 ### Metrics plot
 
@@ -79,6 +79,7 @@ Design and develop the solution to predict sentiments for headline and title of 
 
 ![image](https://user-images.githubusercontent.com/60923910/132124444-7291c935-c359-4524-bc72-73cc00d62d82.png)
 
+<br />
 
 ![image](https://user-images.githubusercontent.com/60923910/132124459-1b76409e-6dec-41ca-bf4a-a31df3aca9fa.png)
 
